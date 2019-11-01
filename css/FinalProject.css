@@ -145,10 +145,9 @@ nav ul ul li a:hover {
 }
 .lesson {
     font-size: 1.4em;
-    /* color: white; */
+    color: white;
     text-decoration: none;
     list-style-type: none;
-    color:black; 
     font-weight: 300; 
     text-shadow: 2px 2px 5px #24A6C9;
     
